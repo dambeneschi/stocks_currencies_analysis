@@ -5,6 +5,7 @@ This repository hosts the data and jupyter notebooks for the cleaning and analys
 The notebook goes through the following steps:
 - EDA
 - Cleaning and Normalisation
+- Merging
 - Correlation analysis
 - Autocorrelation analysis (ARIMA model, forecast)
 - Cointegration analysis
